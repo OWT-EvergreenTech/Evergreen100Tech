@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Evergreen100Tech
-- 👀 I’m interested in Mathematics 
+- 👋 Hi, I’m @Evergreen100Tech 
 - 🌱 I’m currently learning Software Engineering 
 - 💞️ I’m looking to collaborate on Web Dev
 - 📫 How to reach me : you can see me all youll get is my doings
